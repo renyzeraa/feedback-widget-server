@@ -2,6 +2,8 @@
 
 Uma API RESTful construída com Node.js seguindo os princípios SOLID para coletar e gerenciar feedback de usuários.
 
+[Repositório do Frontend](https://github.com/renyzeraa/feedback-widget-web)
+
 ## 🚀 Tecnologias
 
 - [Node.js](https://nodejs.org/)
